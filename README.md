@@ -5,6 +5,10 @@ This project involves analyzing housing data to predict the median house value i
 
 The project consists of data preprocessing, exploratory data analysis (EDA), model training, and web application deployment to provide real-time predictions.
 
+![image_alt](https://github.com/iamanirudhnair/Boston_House_Pricing/blob/main/Screenshot%202025-03-08%20091134.png?raw=true)
+
+![image_alt](https://github.com/iamanirudhnair/Boston_House_Pricing/blob/main/Screenshot%202025-03-08%20091151.png?raw=true)
+
 ## Dataset Description
 The dataset contains the following features:
 - **MedInc**: Median income in the block group.
